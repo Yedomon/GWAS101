@@ -1,6 +1,12 @@
 # GWAS101
 
 
+
+
+- #### [Genome wide association analyses to understand genetic basis of flowering and plant height under three levels of nitrogen application in Brassica juncea (L.) Czern & Coss](https://search.proquest.com/openview/2180a67f7687b50335c493e1f0d51d67/1?pq-origsite=gscholar&cbl=2041939)
+
+- #### [Population genetics and genome‐wide association studies provide insights into the influence of selective breeding on genetic variation in lettuce](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20086)
+
 - #### [Genome-wide association study identifies novel loci and candidate genes for drought stress tolerance in rapeseed](https://www.sciencedirect.com/science/article/pii/S2096242821000026)
 
 
