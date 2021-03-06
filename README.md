@@ -2,6 +2,8 @@
 
 
 
+- #### [Genome-Wide Association Study Dissects Resistance Loci against Bacterial Blight in a Diverse Rice Panel from the 3000 Rice Genomes Project](https://thericejournal.springeropen.com/articles/10.1186/s12284-021-00462-3)
+
 - #### [High-resolution genome-wide association study pinpoints metal transporter and chelator genes involved in the genetic control of element levels in maize grain ](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab059/6156830)
 
 
