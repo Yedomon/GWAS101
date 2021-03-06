@@ -1,6 +1,8 @@
 # GWAS101
 
 
+- #### [Genome-wide association study identifies novel loci and candidate genes for drought stress tolerance in rapeseed](https://www.sciencedirect.com/science/article/pii/S2096242821000026)
+
 
 - #### [Genome-Wide Association Study Dissects Resistance Loci against Bacterial Blight in a Diverse Rice Panel from the 3000 Rice Genomes Project](https://thericejournal.springeropen.com/articles/10.1186/s12284-021-00462-3)
 
