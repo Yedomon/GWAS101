@@ -2,6 +2,9 @@
 
 
 
+- #### [High-resolution genome-wide association study pinpoints metal transporter and chelator genes involved in the genetic control of element levels in maize grain ](https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkab059/6156830)
+
+
 - #### [Genome-wide association analysis identified molecular markers associated with important tea flavor-related metabolites](https://www.nature.com/articles/s41438-021-00477-3)
 
 
