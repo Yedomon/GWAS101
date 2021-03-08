@@ -1,6 +1,6 @@
 # GWAS101
 
-
+- #### [Construction of a high-density genetic map with whole genome sequencinginNicotianatabacumL](https://reader.elsevier.com/reader/sd/pii/S0888754319302411?token=118FDB0D6FF78C77ABE2FD29AF9DFEBCC750BD2DD4810D604135660E4662DC706ACAA8FB1CCEEF3762BD15572C168D0B)
 
 
 - #### [Genome wide association analyses to understand genetic basis of flowering and plant height under three levels of nitrogen application in Brassica juncea (L.) Czern & Coss](https://search.proquest.com/openview/2180a67f7687b50335c493e1f0d51d67/1?pq-origsite=gscholar&cbl=2041939)
