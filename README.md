@@ -3,6 +3,14 @@
 - #### [Construction of a high-density genetic map with whole genome sequencinginNicotianatabacumL](https://reader.elsevier.com/reader/sd/pii/S0888754319302411?token=118FDB0D6FF78C77ABE2FD29AF9DFEBCC750BD2DD4810D604135660E4662DC706ACAA8FB1CCEEF3762BD15572C168D0B)
 
 
+- #### [Genome-wide association mapping identifies novel loci underlying fire blight resistance in apple](https://acsess.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/tpg2.20087)
+
+- #### [Genome wide association mapping for heat tolerance in sub-tropical maize](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-07463-y)
+
+- #### [Genome wide association analysis for phosphorus use efficiency traits in mungbean (Vigna radiata L. Wilczek) using genotyping by sequencing approach](https://www.frontiersin.org/articles/10.3389/fpls.2020.537766/full)
+
+
+
 - #### [Genome wide association analyses to understand genetic basis of flowering and plant height under three levels of nitrogen application in Brassica juncea (L.) Czern & Coss](https://search.proquest.com/openview/2180a67f7687b50335c493e1f0d51d67/1?pq-origsite=gscholar&cbl=2041939)
 
 - #### [Population genetics and genome‐wide association studies provide insights into the influence of selective breeding on genetic variation in lettuce](https://acsess.onlinelibrary.wiley.com/doi/10.1002/tpg2.20086)
