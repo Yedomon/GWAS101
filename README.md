@@ -1,5 +1,7 @@
 # GWAS101
 
+- #### [Designing a Mini-Core Collection Effectively Representing 3004 Diverse Rice Accessions](https://www.cell.com/plant-communications/pdfExtended/S2590-3462(20)30032-8)
+
 - #### [Construction of a high-density genetic map with whole genome sequencinginNicotianatabacumL](https://reader.elsevier.com/reader/sd/pii/S0888754319302411?token=118FDB0D6FF78C77ABE2FD29AF9DFEBCC750BD2DD4810D604135660E4662DC706ACAA8FB1CCEEF3762BD15572C168D0B)
 
 
