@@ -3,7 +3,7 @@
 
 
 
-
+- #### [Genome-Wide Association Study-Based Identification of SNPs and Haplotypes Associated With Goose Reproductive Performance and Egg Quality](https://www.frontiersin.org/articles/10.3389/fgene.2021.602583/full)
 - #### [Genome-wide association study reveals the genetic basis of yield- and quality-related traits in wheat](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-02925-7)
 
 
