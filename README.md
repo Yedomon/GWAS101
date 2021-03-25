@@ -1,5 +1,15 @@
 # GWAS101
 
+
+
+
+
+- #### [Genome-wide association study reveals the genetic basis of yield- and quality-related traits in wheat](https://bmcplantbiol.biomedcentral.com/articles/10.1186/s12870-021-02925-7)
+
+
+- #### [Genome-wide association study (GWAS) of seed germination-related traits in rice and identification of candidate genes](https://europepmc.org/article/ppr/ppr298506)
+
+
 - #### [Designing a Mini-Core Collection Effectively Representing 3004 Diverse Rice Accessions](https://www.cell.com/plant-communications/pdfExtended/S2590-3462(20)30032-8)
 
 - #### [Construction of a high-density genetic map with whole genome sequencinginNicotianatabacumL](https://reader.elsevier.com/reader/sd/pii/S0888754319302411?token=118FDB0D6FF78C77ABE2FD29AF9DFEBCC750BD2DD4810D604135660E4662DC706ACAA8FB1CCEEF3762BD15572C168D0B)
