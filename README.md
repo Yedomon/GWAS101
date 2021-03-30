@@ -1,6 +1,6 @@
 # GWAS101
 
-
+- #### [Untangling the multi-regime molecular mechanism of verbenol-chemotype Zingiber officinale essential oil against Aspergillus flavus and aflatoxin B1](https://www.nature.com/articles/s41598-021-86253-8) Nice title... Untangling....
 - #### [Enhancing oleic acid content in two commercially released peanut varieties through marker‐assisted backcross breeding](https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/csc2.20512)
 
 - #### [Phenotypic trait extraction of soybean plants using deep convolutional neural networks with transfer learning](http://www.aimspress.com/article/doi/10.3934/bdia.2021003) | [code](https://github.com/jasonradams47/SoybeanTraitPrediction/tree/master/PythonCode)
