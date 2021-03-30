@@ -1,5 +1,7 @@
 # GWAS101
 
+- #### [Phenotypic trait extraction of soybean plants using deep convolutional neural networks with transfer learning](http://www.aimspress.com/article/doi/10.3934/bdia.2021003) | [code](https://github.com/jasonradams47/SoybeanTraitPrediction/tree/master/PythonCode)
+
 - #### [Uncovering genomic regions controlling plant architectural traits in hexaploid wheat using different GWAS models](https://www.nature.com/articles/s41598-021-86127-z)
 - #### [Genome-wide association study and gene network analyses reveal potential candidate genes for high night temperature tolerance in rice](https://www.nature.com/articles/s41598-021-85921-z)
 
