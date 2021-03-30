@@ -1,6 +1,7 @@
 # GWAS101
 
-
+- #### [Uncovering genomic regions controlling plant architectural traits in hexaploid wheat using different GWAS models](https://www.nature.com/articles/s41598-021-86127-z)
+- #### [Genome-wide association study and gene network analyses reveal potential candidate genes for high night temperature tolerance in rice](https://www.nature.com/articles/s41598-021-85921-z)
 
 
 - #### [Genome-Wide Association Study-Based Identification of SNPs and Haplotypes Associated With Goose Reproductive Performance and Egg Quality](https://www.frontiersin.org/articles/10.3389/fgene.2021.602583/full)
