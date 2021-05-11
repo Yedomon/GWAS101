@@ -1,5 +1,13 @@
 # GWAS101
 
+
+
+
+- #### [Genetic dissection of drought resistance based on root traits at the bud stage in common bean](https://link.springer.com/article/10.1007%2Fs00122-020-03750-6)
+
+
+![img](https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs00122-020-03750-6/MediaObjects/122_2020_3750_Fig4_HTML.png?as=webp)
+
 - #### [Untangling the multi-regime molecular mechanism of verbenol-chemotype Zingiber officinale essential oil against Aspergillus flavus and aflatoxin B1](https://www.nature.com/articles/s41598-021-86253-8) Nice title... Untangling....
 - #### [Enhancing oleic acid content in two commercially released peanut varieties through marker‐assisted backcross breeding](https://acsess.onlinelibrary.wiley.com/doi/abs/10.1002/csc2.20512)
 
